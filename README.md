@@ -4,7 +4,7 @@ Online Variance Reduction with Mixtures
 Introduction
 ---
 
-The package is the implementation of the VRM sampler presented in the paper:
+This is the implementation of the VRM sampler presented in the paper:
 
 > [**Online Variance Reduction with Mixtures**](https://arxiv.org/pdf/1802.04715.pdf)
 > *Zalán Borsos, Sebastian Curi, Kfir Y Levy, Andreas Krause*.
@@ -13,10 +13,12 @@ The package is the implementation of the VRM sampler presented in the paper:
 
 Usage
 ---
-First, install the dependencies with
+Install the dependencies with
 ```
 pip install -r requirements.txt 
 ```
+
+Examples for the usage of the sampler are contained in ```example.ipynb```. 
 
 License
 ---
